@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Blender & Outputs
+*.blend1
+output/
+
+# macOS & Editors
+.DS_Store
+.vscode/
+.env

@@ -1,0 +1,2 @@
+# Executed using Blender's bundled Python runtime (bpy).
+# No external pip packages required for standard GLB export.
